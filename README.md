@@ -1,1 +1,1 @@
-# Multi-game-selection
+This project includes three interactive games: Tic-Tac-Toe, Rock-Paper-Scissors, and a Number Guessing Game. Each game is designed to be played via the command line with user-friendly prompts and simple controls. Choose your preferred game from the main menu and enjoy playing against the computer or with another player. The project is implemented in Python using standard libraries such as 'random' and 'numpy'.
